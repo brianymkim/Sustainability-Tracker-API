@@ -19,7 +19,7 @@ The server will run on `http://localhost:3000`.
 2. Navigate to the frontend directory (i.e. sustainability-tracker folder) and install dependencies:
 npm install
 
-4. Start the Angular development server:
+4. Start the Angular development server inside the sustainability-tracker terminal:
 ng serve
 
 The application will be available at `http://localhost:4200`.
